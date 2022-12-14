@@ -1,16 +1,14 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Khanh Quoc Tran</h2>
+I'm currently working as Teaching Assistant for Data Science at the VNUHCM - University of Information Technology.
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;As a data scientist, I'm interested in investigating Big Data by utilizing Data Analyst and state-of-the-art Machine Learning methods to solve challenging tasks related to media products such as Data Mining, Natural Language Processing, and Social Analysis, which provide powerful visualization tools and predictive models for leaders and organizations to make the right decisions at the right time.\
-🎓 &nbsp;I'm currently working as Teaching Assistant for Data Science at the VNUHCM - University of Information Technology.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at khantq@uit.edu.vn! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://github.com/kh4nh12/khanhtq_cv/files/10226166/TranQuocKhanh_Data_Scientist_CV.pdf) for more details about me. I'm open to feedback and suggestions!
 
@@ -33,8 +31,8 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kh4nh12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kh4nh12&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
