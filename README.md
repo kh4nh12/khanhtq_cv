@@ -1,49 +1,117 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-
-
-<h2>Hey there! I'm Khanh Quoc Tran</h2>
-I'm currently working as Teaching Assistant for Data Science at the VNUHCM - University of Information Technology.
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;As a data scientist, I'm interested in investigating Big Data by utilizing Data Analyst and state-of-the-art Machine Learning methods to solve challenging tasks related to media products such as Data Mining, Natural Language Processing, and Social Analysis, which provide powerful visualization tools and predictive models for leaders and organizations to make the right decisions at the right time.\
-✉️ &nbsp;You can shoot me an email at khantq@uit.edu.vn! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://github.com/kh4nh12/khanhtq_cv/files/10226166/TranQuocKhanh_Data_Scientist_CV.pdf) for more details about me. I'm open to feedback and suggestions!
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Keywords & Tech Stack
-
-![Natural Language Processing](https://img.shields.io/badge/%20-Natural%20Language%20Processing-05122A?logo=TASA)&nbsp;
-![Information Extraction](https://img.shields.io/badge/-Information%20Extraction-05122A?style=flat&logo=https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/vn.png![image](https://user-images.githubusercontent.com/62872625/206336153-971a9c9d-34fb-42bb-ba4d-a64f2e5cd06c.png)
-)&nbsp;
-![Emotions and Sentiment Analysis](https://img.shields.io/badge/-Emotions%20and%20Sentiment%20Analysis-05122A?style=flat&logo=Vietnam)
-![Social Mining](https://img.shields.io/badge/-Social%20Mining-05122A?style=flat&logo=Vietnam)
-
-![Huggingface](https://img.shields.io/badge/🤗-Huggingface-05122A)&nbsp;
-![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-<!-- ### ⚙️ &nbsp;GitHub Analytics
+<h1 align="center">
+  <a href="https://github.com/posquit0/Awesome-CV" title="AwesomeCV Documentation">
+    <img alt="AwesomeCV" src="https://github.com/posquit0/Awesome-CV/raw/master/icon.png" width="200px" height="200px" />
+  </a>
+  <br />
+  Awesome CV
+</h1>
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kh4nh12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kh4nh12&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p> -->
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-khanhtq.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/kh4nh12/"><img src="https://img.shields.io/badge/-Khanh%20Quoc%20Tran-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:khanhtq@uit.edu.vn"><img src="https://img.shields.io/badge/-khanhtq@uit.edu.vn-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/khanhos0412/"><img src="https://img.shields.io/badge/-Khanh Quoc Tran-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  LaTeX template for your outstanding job application
 </p>
 
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
+<div align="center">
+  <a href="https://www.paypal.me/posquit0">
+    <img alt="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" />
+  </a>
+  <a href="https://circleci.com/gh/posquit0/Awesome-CV">
+    <img alt="CircleCI" src="https://circleci.com/gh/posquit0/Awesome-CV.svg?style=shield" />
+  </a>
+  <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf">
+    <img alt="Example Resume" src="https://img.shields.io/badge/resume-pdf-green.svg" />
+  </a>
+  <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/cv.pdf">
+    <img alt="Example CV" src="https://img.shields.io/badge/cv-pdf-green.svg" />
+  </a>
+  <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf">
+    <img alt="Example Coverletter" src="https://img.shields.io/badge/coverletter-pdf-green.svg" />
+  </a>
+</div>
+
+<br />
+
+## What is Awesome CV?
+
+**Awesome CV** is LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or **Cover Letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
+
+
+## Donate
+
+Please help keep this project alive! Donations are welcome and will go towards further development of this project.
+
+    PayPal: paypal.me/posquit0
+    BTC: 1Je3DxJVM2a9nTVPNo55SfQwpmxA6N2KKb
+    BCH: 1Mg1wG7PwHGrHYSWS67TsGSjo5GHEVbF16
+    ETH: 0x77ED9B4659F80205E9B9C9FB1E26EDB9904AFCC7
+    QTUM: QZT7D6m3QtTTqp7s4ZWAwLtGDsoHMMaM8E
+
+*Thank you for your support!*
+
+## Preview
+
+#### Résumé
+
+You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
+
+| Page. 1 | Page. 2 |
+|:---:|:---:|
+| [![Résumé](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-0.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-1.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf) |
+
+#### Cover Letter
+
+You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf)
+
+| Without Sections | With Sections |
+|:---:|:---:|
+| [![Cover Letter(Traditional)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-0.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf)  | [![Cover Letter(Awesome)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-1.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf) |
+
+
+## Quick Start
+
+* [**Edit Résumé on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv/tvmzpvdjfqxp)
+* [**Edit Cover Letter on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv-cover-letter/pfzzjspkthbk)
+
+**_Note:_ Above services do not guarantee up-to-date source code of Awesome CV**
+
+
+## How to Use
+
+#### Requirements
+
+A full TeX distribution is assumed.  [Various distributions for different operating systems (Windows, Mac, \*nix) are available](http://tex.stackexchange.com/q/55437) but TeX Live is recommended.
+You can [install TeX from upstream](http://tex.stackexchange.com/q/1092) (recommended; most up-to-date) or use `sudo apt-get install texlive-full` if you really want that.  (It's generally a few years behind.)
+
+#### Usage
+
+At a command prompt, run
+
+```bash
+$ xelatex {your-cv}.tex
+```
+
+This should result in the creation of ``{your-cv}.pdf``
+
+
+## Credit
+
+[**LaTeX**](http://www.latex-project.org) is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia.
+
+[**LaTeX FontAwesome**](https://github.com/furl/latex-fontawesome) is bindings for FontAwesome icons to be used in XeLaTeX.
+
+[**Roboto**](https://github.com/google/roboto) is the default font on Android and ChromeOS, and the recommended font for Google’s visual language, Material Design.
+
+[**Source Sans Pro**](https://github.com/adobe-fonts/source-sans-pro) is a set of OpenType fonts that have been designed to work well in user interface (UI) environments.
+
+
+## Contact
+
+You are free to take my `.tex` file and modify it to create your own resume. Please don't use my resume for anything else without my permission, though!
+
+If you have any questions, feel free to join me at [`#posquit0` on Freenode](irc://irc.freenode.net/posquit0) and ask away. Click [here](https://kiwiirc.com/client/irc.freenode.net/posquit0) to connect.
+
+Good luck!
+
+
+## See Also
+
+* [Awesome Identity](https://github.com/posquit0/hugo-awesome-identity) - A single-page Hugo theme to introduce yourself.
