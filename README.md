@@ -1,5 +1,3 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
 <h2>👋 Hey there! I'm Khanh Quoc Tran</h2>
 I'm currently working as Teaching Assistant for Data Science at the VNUHCM University of Information Technology.\
 
@@ -7,8 +5,7 @@ I'm currently working as Teaching Assistant for Data Science at the VNUHCM Unive
 
 💡 &nbsp;As a data scientist, I'm interested in investigating Big Data by utilizing Data Analyst and state-of-the-art Machine Learning methods to solve challenging tasks related to media products such as Data Mining, Natural Language Processing, and Social Analysis, which provide powerful visualization tools and predictive models for leaders and organizations to make the right decisions at the right time.\
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
-[TranQuocKhanh_Data_Scientist_CV.pdf](https://github.com/kh4nh12/khanhtq_cv/files/10226325/TranQuocKhanh_Data_Scientist_CV.pdf)
+📄 &nbsp;Please have a look at my [Résumé](https://github.com/kh4nh12/khanhtq_cv/files/10226325/TranQuocKhanh_Data_Scientist_CV.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
