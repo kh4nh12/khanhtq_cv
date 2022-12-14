@@ -16,20 +16,18 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Keywords & Tech Stack
 
+![Natural Language Processing](https://img.shields.io/badge/%20-Natural%20Language%20Processing-05122A?logo=TASA)&nbsp;
+![Information Extraction](https://img.shields.io/badge/-Information%20Extraction-05122A?style=flat&logo=https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/vn.png![image](https://user-images.githubusercontent.com/62872625/206336153-971a9c9d-34fb-42bb-ba4d-a64f2e5cd06c.png)
+)&nbsp;
+![Emotions and Sentiment Analysis](https://img.shields.io/badge/-Emotions%20and%20Sentiment%20Analysis-05122A?style=flat&logo=Vietnam)
+![Social Mining](https://img.shields.io/badge/-Social%20Mining-05122A?style=flat&logo=Vietnam)
+
+![Huggingface](https://img.shields.io/badge/🤗-Huggingface-05122A)&nbsp;
+![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
