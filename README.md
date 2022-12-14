@@ -1,5 +1,5 @@
 <h2>👋 Hey there! I'm Khanh Quoc Tran</h2>
-I'm currently working as Teaching Assistant for Data Science at the VNUHCM University of Information Technology.\
+I'm currently working as Teaching Assistant for Data Science at the VNUHCM University of Information Technology.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
