@@ -4,7 +4,7 @@ I'm currently working as Teaching Assistant for Data Science at the VNUHCM Unive
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;As a data scientist, I'm interested in investigating Big Data by utilizing Data Analyst and state-of-the-art Machine Learning methods to solve challenging tasks related to media products such as Data Mining, Natural Language Processing, and Social Analysis, which provide powerful visualization tools and predictive models for leaders and organizations to make the right decisions at the right time.\
-📄 &nbsp;Please have a look at my [Résumé](https://github.com/kh4nh12/khanhtq_cv/files/10226325/TranQuocKhanh_Data_Scientist_CV.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://github.com/kh4nh12/khanhtq_cv/files/10234961/TranQuocKhanh_Data_Scientist_CV.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
